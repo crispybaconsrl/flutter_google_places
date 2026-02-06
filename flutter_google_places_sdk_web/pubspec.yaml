@@ -16,7 +16,7 @@ dependencies:
     git:
       url: https://github.com/crispybaconsrl/flutter_google_places.git
       path: flutter_google_places_sdk_platform_interface
-      ref: 1.0.5
+      ref: test-ci
 #    path: ../flutter_google_places_sdk_platform_interface
   js: ^0.7.1
   google_maps: ^8.0.0
